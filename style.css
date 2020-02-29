@@ -1,0 +1,57 @@
+.block{
+	height: 200px;
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 50px;
+	font-size: 20px;
+	font-family: cursive;
+	background:linear-gradient(to right,red,purple,navy);
+	color: whitesmoke;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: all 0.5s earse;
+	
+	
+	
+}
+.anim1:hover{
+	
+	box-shadow: inset 0 0 0 30px blue;
+	
+}
+	
+.anim2:hover{
+	
+	opacity: 0.6;
+
+
+}	
+
+
+.anim3:hover{	
+	
+	transform: scale(1.1);
+}	
+	
+	
+.anim4:hover{	
+	
+	;
+}	
+		
+.anim5:hover{	
+	
+	transform: scale(1.1);
+}	
+		
+.anim6:hover{	
+	
+	transform: scale(1.1);
+}	
+	
+	
+	
+	
+	
+	
